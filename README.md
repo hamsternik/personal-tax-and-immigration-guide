@@ -87,7 +87,81 @@ Here you can apply for the CUAET (Canada-Ukraine Emergency Travel).
 ## Chile
 Who is liable? Nonresidents are tax on Chilean-source income only. Residents are subject to personal income tax on their worldwide income. You are considered as Chile resident if (1) stay in a period >= 183 days within calendar year.
 
-x
+Income subject to tax:
+
+Chile taxes its individuals resident or domiciled in Chile on worldwide income. Foreigners working in Chile are subject to taxation only on their Chilean-source income during the first three years in Chile, after which worldwide income is taxed.
+
+- Employment Tax.
+*Works only if you are an employee in the country's company*.
+
+- Self-employment income.
+Persnal income tax is imposed at progressive rates: 0...40%.
+The corporate income tax rate is 27%. But small to medium-size entities are subject to corporate 25% of the income tax.
+Income earned by prefiessionals and independent workds, minus deductions for actual or deemed expenses, is also subject to personal income tax: 0...40%.
+
+Deductions.
+
+Personal deductions and allowances:
+
+- social security contributions paid, up to certain limits;
+- pensions or insurance funds may be fully deductible;
+- mortage interest paid may be deducted to certain limitations;
+- child education expenses incurred, but if the parents' total yearly income <= ~29_700 USD
+
+Taxable Income Rates:
+
+Rates based on the MTU (monthly taxable unit, 1 MTU == ~66 USD) amount.
+
+- 0...13.5 MTU -- 0%
+- 13.5...30 MTU -- 4%
+- 30...50 MTU -- 8% // min 1980 USD
+- 50...70 MTU -- 13.5% // min 3300 USD
+- 70...90 MTU -- 23% // min 4620 USD
+- 90...120 MTU -- 30.4% // min 5940 USD
+- 120...310 MTU -- 40% // min 7920 USD
+
+[Taxes on personal income. Table by PwC](https://taxsummaries.pwc.com/chile/individual/taxes-on-personal-income).
+
+No double tax treaties with Ukraine.
+
+Independent workers must contribute for the following coverages:
+
+- pension
+- health insurance
+- disability insurance
+- work accedent insurance
+- "sanna" fund
+
+### Visa & Residence
+
+> ☢️ On February 12th, 2022, a new immigration law came into force in Chile. We have updated all the pages of this section following this new law, to reflect the changes. Some points are still pending for a decision by the immigration service. In that case, the corresponding page will display a warning similar to this one. Should you have doubts, we recommend you to book a consultation to review your situation more in depth.
+> Source: https://www.expat.cl/guide-chile/immigration-visas/.
+
+Chile touriest visa for UA citizens: *Visa Free*.
+From the [visalist](https://visalist.io/chile/visa-requirements/ukraine).
+
+- [Immigation and Visas](https://valdiviaguide.com/immigration/)
+- [Valdivia City Guide](https://valdiviaguide.com/)
+
+[Permanent Residence in Chile | expat.cl](https://www.expat.cl/guide-chile/immigration-visas/permanent-residency-in-chile/).
+
+> ...to stay indefinitely in Chile and to do any kind of businesses, as long as it is legal.
+> ...do not have to renew it.
+
+☢️ PR automatically expires if you stay outside of Chile for longer than 2 years without coming back, even a few days.
+
+How long must I reside in Chile to request permanent residency?
+Temporary visa - 1 year. Work / Student visa - 2 years.
+
+Temporary visa 
+
+## Paraguay
+
+[Visa is not required for UA citizens](https://www.visahq.com/paraguay/).
+
+## Uruguay
+
+[Visa is not required for UA citizens](https://www.visahq.com/uruguay/).
 
 ## Financial Dictionary
 
@@ -99,8 +173,14 @@ income tax vs. payroll tax
 
 - tax treaty – налоговое соглашение (договор)
 - capital gain – прирост капитала
+- board and lodging – питание и проживание
+- capital gains - доходы с капитала (eg. sale of shares)
 
 https://psiloveyouday.org/what-is-cit-and-who-has-to-pay-it/
 
 Source: https://www.ey.com/en_gl/tax-guides/worldwide-personal-tax-and-immigration-guide
 Another source: https://www.globalexpansion.com/countrypedia/ukraine
+
+## Misc
+
+- [VisaHQ. Check out whether you need a travel visa with a specific passport](https://www.visahq.com/visas.php).
